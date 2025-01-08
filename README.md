@@ -1,6 +1,6 @@
 # Projeto de Criptografia AES com Arquivos
 
-Este projeto foi desenvolvido em **Java** e permite a criptografia e descriptografia de arquivos utilizando o algoritmo **AES**. O programa pode ler arquivos de texto, aplicar criptografia ou descriptografias, e salvar o resultado em um novo arquivo.
+Este projeto foi desenvolvido em **Java** e permite a criptografia e descriptografia de arquivos utilizando o algoritmo **AES**. O programa pode ler arquivos de texto, aplicar criptografia ou descriptografias, e salvar o resultado em um novo arquivo esse projeto feito partir do ultimo desafio do bootcamp de cybersegurança ofertado pela santander ministrado pela plaforma dio, foi pedido em python o resolvi em java.
 
 ## Pré-Requisitos
 
@@ -49,3 +49,6 @@ O programa pedirá para você informar o caminho do arquivo. Dependendo do nome 
 - Se o arquivo original for ransomwaretroll.txt, a saída será um arquivo chamado teste.txt com o conteúdo descriptografado.
 - Caso o arquivo tenha outro nome, ele será criptografado e salvo com a extensão .ransomwaretroll.txt.
 #### Agora as instruções estão completas e prontas para serem usadas.
+## Criador: **Diego Felipe**
+
+[Linkedln](https://www.linkedin.com/in/diegofelipeti/)
